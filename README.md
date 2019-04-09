@@ -1,4 +1,4 @@
-## mapDispatchToProps Lab
+### mapDispatchToProps Lab
 
 ## Objectives
 
